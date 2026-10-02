@@ -1,10 +1,9 @@
 # Portafolio de Trading
 
-Sistema de gestión y seguimiento de operaciones desarrollado con Laravel.
-
+Construido con Laravel 12 (PHP 8.2) como backend, MySQL como base de datos, Tailwind CSS para la interfaz y Vite como compilador de assets. El proyecto sigue el patrón MVC de Laravel con Eloquent ORM para las relaciones entre entidades.
 ---
 
-## 🚀 Guía de Instalación Local
+## Guía de Instalación Local
 
 Sigue los pasos a continuación para clonar y ejecutar este proyecto en tu computadora.
 
