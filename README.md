@@ -1,11 +1,13 @@
-# Portafolio de Trading
+# Portafolio de Trading completamente en español
 
-Construido con Laravel 12 (PHP 8.2) como backend, MySQL como base de datos, Tailwind CSS para la interfaz y Vite como compilador de assets. El proyecto sigue el patrón MVC de Laravel con Eloquent ORM para las relaciones entre entidades.
+Construido con Laravel 12 (PHP 8.2) como backend, MySQL como base de datos, Tailwind CSS para la interfaz y Vite como compilador de assets. El proyecto sigue el patrón MVC de Laravel con Eloquent ORM para las relaciones entre entidades, cualquier ayuda o sugerencia es bienvenida.
+
 ---
 
 ## Guía de Instalación Local
 
 Sigue los pasos a continuación para clonar y ejecutar este proyecto en tu computadora.
+Construido con Laravel 12 (PHP 8.2) como backend, MySQL como base de datos, Tailwind CSS para la interfaz y Vite como compilador de assets. El proyecto sigue el patrón MVC de Laravel con Eloquent ORM para las relaciones entre entidades.
 
 ### 1. Requisitos previos
 - PHP (>= 8.2)
